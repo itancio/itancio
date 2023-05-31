@@ -1,6 +1,6 @@
  - 👋  Hi, I’m Irvin Tancioco</p>
  - 👀  I’m interested in exploring designing experience using technology.</p>
- - 🌱  I’m currently learning Optimization Models, Machine Structures, Machine Learning, Robotics at University of California, Berkeley.</p>
+ - 🌱  I’m currently learning Optimization Models, Artificial Intelligence, and UX/UI design at University of California, Berkeley.</p>
  - 📫  How to reach me? You can email me at itancio@berkeley.edu
 
 <!---
