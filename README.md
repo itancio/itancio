@@ -1,5 +1,6 @@
  - 👋  Hi, I’m Irvin Tancioco</p>
- - 👀  I’m interested in exploring designing experience using technology.</p>
+ - 👀  I am transitioning to software engineering with a strong focus into merging human-centric design with software.</p>
+ - I am passionate about leveraging Machine Learning/ Artificial Intelligence to drive responsible and ethically grounded technological innovations.</p>
  - 🌱  I’m currently learning Optimization Models, Artificial Intelligence, and UX/UI design at University of California, Berkeley.</p>
  - 📫  How to reach me? You can email me at itancio@berkeley.edu
 
