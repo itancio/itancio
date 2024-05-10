@@ -15,7 +15,7 @@ Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Des
 Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
 
 ## Work Experience
-Web Developer </t>Aug 2021 - Dec 2022
+Web Developer <\t>Aug 2021 - Dec 2022
 Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
 visibility and digital presence
