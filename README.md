@@ -44,13 +44,9 @@ optimize tax outcomes
 increased client satisfaction and referrals
 
 ## Education
-* University Of California Berkeley College Of Engineering (Aug 2023)
-- Bachelor Of Science in Electrical Engineering And Computer Science 
-* City College Of San Francisco (May 2020)
-- Associate Degree in Computer Science (with Highest Honors)  •  GPA: 3.96 
+* University Of California Berkeley College Of Engineering (Aug 2023)  •  Bachelor Of Science in Electrical Engineering And Computer Science 
+* City College Of San Francisco (May 2020)  •  Associate Degree in Computer Science (with Highest Honors)  •  GPA: 3.96 
 
 ## Certificates
-* Advanced Learning Algorithms Mar 2024
-- Stanford Online (Coursera)
-* Supervised Learning: Regression and Classification Dec 2023
-- Stanford Online (Coursera)
+* Advanced Learning Algorithms Mar 2024  •  Stanford Online (Coursera)
+* Supervised Learning: Regression and Classification Dec 2023  •  Stanford Online (Coursera)
