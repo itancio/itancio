@@ -15,7 +15,7 @@ Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Des
 * Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
 
 ## Work Experience
-Web Developer Aug 2021 - Dec 2022
+Web Developer (Aug 2021 - Dec 2022)
 Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
 visibility and digital presence
@@ -23,7 +23,7 @@ visibility and digital presence
 increased brand recognition and customer acquisition
 * Enhanced user experience by using HTML and CSS to align website visuals with brand standards
 
-Lead Instructional Aide in Computer Science Aug 2017 - May 2018
+Lead Instructional Aide in Computer Science (Aug 2017 - May 2018)
 City College of San Francisco
 * Mentored 100+ students for 320 hours, elevating programming literacy and fostering a passion for technology.
 Focused on reinforcing foundational understanding of C++ and fundamental problem-solving strategies, leading to
@@ -34,7 +34,7 @@ grades and positive course feedback
 * Managed a team of five teacher assistants to ensure adherence to weekly priorities, resulting in a 15% improvement in
 classroom efficiency and productivity
 
-Tax Professional / Consultant Jan 2015 - Present
+Tax Professional / Consultant (Jan 2015 - Present)
 Lacayo & Associates (Seasonal)
 * Supported over 900 clients in meeting tax compliance, deepened understanding of tax regulations, and drove the
 digital modernization of tax filing processes, resulting in a 28% increase in system financial performance
@@ -45,12 +45,12 @@ increased client satisfaction and referrals
 
 ## Education
 * University Of California Berkeley College Of Engineering (Aug 2023)
-Bachelor Of Science in Electrical Engineering And Computer Science 
+- Bachelor Of Science in Electrical Engineering And Computer Science 
 * City College Of San Francisco (May 2020)
-Associate Degree in Computer Science (with Highest Honors) • GPA: 3.96 
+- Associate Degree in Computer Science (with Highest Honors)  •  GPA: 3.96 
 
 ## Certificates
 * Advanced Learning Algorithms Mar 2024
-Stanford Online (Coursera)
+- Stanford Online (Coursera)
 * Supervised Learning: Regression and Classification Dec 2023
-Stanford Online (Coursera)
+- Stanford Online (Coursera)
