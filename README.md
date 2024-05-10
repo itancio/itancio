@@ -1,10 +1,10 @@
 # Irvin Brian Tancioco
 ## Summary
-<p color="gray">A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
+<span style="color: red;">A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
 combining expertise in human-centric design and software development. Transitioning from a background in tax
 preparation to software engineering, I'm keen to apply innovative solutions to improve user experiences and optimize
 development workflows. Proven track record of active collaboration in team settings, from concept to product launch, with
-strong skills in Python and Agile software development practices.</p>
+strong skills in Python and Agile software development practices.</span>
 
 ## Skills
 Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
