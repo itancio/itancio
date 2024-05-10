@@ -7,15 +7,15 @@ development workflows. Proven track record of active collaboration in team setti
 strong skills in Python and Agile software development practices.
 
 ## Skills
-Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
+* Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
 solutions-oriented professional with keen problem-solving skills, possessing a growth mindset, demonstrating a
 willingness to learn, and exhibiting persistence.
-Coursework: Data Structure, Algorithms, Optimization, Artificial Intelligence, Machine Learning, Agile Software
+* Coursework: Data Structure, Algorithms, Optimization, Artificial Intelligence, Machine Learning, Agile Software
 Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Design Methodology
-Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
+* Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
 
 ## Work Experience
-Web Developer <\t>Aug 2021 - Dec 2022
+Web Developer Aug 2021 - Dec 2022
 Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
 visibility and digital presence
@@ -44,13 +44,13 @@ optimize tax outcomes
 increased client satisfaction and referrals
 
 ## Education
-University Of California Berkeley College Of Engineering
-Bachelor Of Science in Electrical Engineering And Computer Science Aug 2023
-City College Of San Francisco
-Associate Degree in Computer Science (with Highest Honors) • GPA: 3.96 May 2020
+* University Of California Berkeley College Of Engineering (Aug 2023)
+Bachelor Of Science in Electrical Engineering And Computer Science 
+* City College Of San Francisco (May 2020)
+Associate Degree in Computer Science (with Highest Honors) • GPA: 3.96 
 
 ## Certificates
-Advanced Learning Algorithms Mar 2024
+* Advanced Learning Algorithms Mar 2024
 Stanford Online (Coursera)
-Supervised Learning: Regression and Classification Dec 2023
+* Supervised Learning: Regression and Classification Dec 2023
 Stanford Online (Coursera)
