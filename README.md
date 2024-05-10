@@ -7,7 +7,6 @@ development workflows. Proven track record of active collaboration in team setti
 strong skills in Python and Agile software development practices.
 
 ## SKILLS
-__________________
 Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
 solutions-oriented professional with keen problem-solving skills, possessing a growth mindset, demonstrating a
 willingness to learn, and exhibiting persistence.
@@ -16,7 +15,6 @@ Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Des
 Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
 
 ## WORK EXPERIENCE
-___________________
 ### Web Developer Aug 2021 - Dec 2022
 ### Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
@@ -46,14 +44,12 @@ optimize tax outcomes
 increased client satisfaction and referrals
 
 ## EDUCATION
-_______________________
 University Of California Berkeley College Of Engineering
 Bachelor Of Science in Electrical Engineering And Computer Science Aug 2023
 City College Of San Francisco
 Associate Degree in Computer Science (with Highest Honors) • GPA: 3.96 May 2020
 
 ## PROJECTS
-_______________________
 Deep Learning for Real Estate Price
 Implemented Real Estate price predictions using deep learning
 Pacman AI
