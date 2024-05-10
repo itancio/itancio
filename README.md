@@ -8,12 +8,14 @@
 itancio/itancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Summary: A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
+## Summary: A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
 combining expertise in human-centric design and software development. Transitioning from a background in tax
 preparation to software engineering, I'm keen to apply innovative solutions to improve user experiences and optimize
 development workflows. Proven track record of active collaboration in team settings, from concept to product launch, with
 strong skills in Python and Agile software development practices.
-SKILLS
+
+## SKILLS
+__________________
 Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
 solutions-oriented professional with keen problem-solving skills, possessing a growth mindset, demonstrating a
 willingness to learn, and exhibiting persistence.
