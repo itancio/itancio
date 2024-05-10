@@ -1,10 +1,10 @@
 # Irvin Brian Tancioco
 ## Summary
-<span style="color: blue">A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
+A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
 combining expertise in human-centric design and software development. Transitioning from a background in tax
 preparation to software engineering, I'm keen to apply innovative solutions to improve user experiences and optimize
 development workflows. Proven track record of active collaboration in team settings, from concept to product launch, with
-strong skills in Python and Agile software development practices.</span>
+strong skills in Python and Agile software development practices.
 
 ## Skills
 Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
@@ -15,7 +15,7 @@ Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Des
 Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
 
 ## Work Experience
-Web Developer Aug 2021 - Dec 2022
+Web Developer </t>Aug 2021 - Dec 2022
 Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
 visibility and digital presence
