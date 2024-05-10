@@ -1,6 +1,6 @@
 # Irvin Brian Tancioco
 ## Summary
-<span style="color: red;">A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
+<span style="color: blue">A recent UC Berkeley EECS (Electrical Engineering and Computer Science) graduate with a diverse skill set,
 combining expertise in human-centric design and software development. Transitioning from a background in tax
 preparation to software engineering, I'm keen to apply innovative solutions to improve user experiences and optimize
 development workflows. Proven track record of active collaboration in team settings, from concept to product launch, with
