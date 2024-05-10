@@ -44,28 +44,12 @@ optimize tax outcomes
 increased client satisfaction and referrals
 
 ## EDUCATION
-University Of California Berkeley College Of Engineering
+### University Of California Berkeley College Of Engineering
 Bachelor Of Science in Electrical Engineering And Computer Science Aug 2023
-City College Of San Francisco
+### City College Of San Francisco
 Associate Degree in Computer Science (with Highest Honors) • GPA: 3.96 May 2020
 
-## PROJECTS
-Deep Learning for Real Estate Price
-Implemented Real Estate price predictions using deep learning
-Pacman AI
-Artificial Intelligence Engineering: Engineered a self-learning Pacman program using Bayes Nets, MDPs, and
-Reinforcement Learning, showcasing a robust application of foundational AI models
-Sixt33n voice-controlled Toy Car
-Integrated complex software algorithms and robust hardware, applying advanced control systems and machine learning
-principles (k-means classification and PCA- Principal Component Analysis) to develop a voice-activated autonomous
-vehicle
-Action map SaaS
-Leveraged Agile methodologies to enhance the Action map platform with user-centric features, emphasizing BDD/TDD
-testing, unit testing, and peer-reviewed, optimized code for robust civic engagement
-End-to-end Encrypted File Sharing System
-Created, debugged, and validated an encrypted file-sharing system, employing diverse encryption techniques to ensure
-confidentiality, integrity, and authentication
-CERTIFICATES
+## CERTIFICATES
 Advanced Learning Algorithms Mar 2024
 Stanford Online (Coursera)
 Supervised Learning: Regression and Classification Dec 2023
