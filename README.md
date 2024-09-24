@@ -14,14 +14,18 @@ development workflows. Proven track record of active collaboration in team setti
 strong skills in Python and Agile software development practices.
 
 ## Skills
-* Strategic Competencies: Effective cross-functional collaborator, highly skilled in workflow and process efficiency,
-solutions-oriented professional with keen problem-solving skills, possessing a growth mindset, demonstrating a
-willingness to learn, and exhibiting persistence.
-* Coursework: Data Structure, Algorithms, Optimization, Artificial Intelligence, Machine Learning, Agile Software
-Development, SaaS, Cybersecurity, Designing Information Devices and Systems, Design Methodology
-* Tools: Python, Java, C++, HTML, CSS, Numpy, Git(Hub), Adobe Suite
+* STRATEGIC COMPETENCIES: Effective cross-functional collaborator, highly skilled in workflow and process efficiency, solutions-oriented with keen problem-solving skills
+* TECHNICAL TOOLS: Python (3 yrs), Java (3 yrs), C++ (3 yrs), Numpy, Tensorflow, OpenAi, Langchain, React/ Next.js/ Typescript, Git, Figma , Adobe Suite (4 yrs)
+* CERTIFICATES: Generative AI with Large Language Models (DeepLearning.ai + Coursera); Machine Learning Specialization (Stanford University + DeepLearning.ai + Coursera)
 
 ## Work Experience
+
+Software Engineering Fellow (July 2024 – Sept 2024)
+Headstarter
+• Built and deployed 4+ AI applications in 5 weeks using React JS, Next.js, Firebase, Clerk, and Vercel, following agile methodologies with weekly sprints and incorporated CI/CD practices for iterative deployment
+• Worked in a team of 3 to develop an interactive customer support agent and team mate finder using Next.js, extracts data from a knowledge base and upsert to a Pinecone index and integrated a custom RAG pipeline using LangChain and OpenAi LLM to answer user queries with updated information
+• Collaborated with 3 Fellows to build and deploy a SaaS product that generates dynamic flashcards based on any topic using the OpenAi LLM, integrated a paywall and custom pricing plans using the Stripe API
+
 Web Developer (Aug 2021 - Dec 2022)
 Freelance
 * Designed and implemented WordPress-based websites for seven local businesses, significantly boosting their brand
@@ -51,7 +55,9 @@ optimize tax outcomes
 increased client satisfaction and referrals
 
 ## Education
-* University Of California Berkeley College Of Engineering (Aug 2023)  •  Bachelor Of Science in Electrical Engineering And Computer Science 
+* University Of California Berkeley College Of Engineering (Aug 2023)  •  Bachelor Of Science in Electrical Engineering And Computer Science
+• Coursework: Data Structure, Optimization, Advanced Algorithm, Artificial Intelligence, Software Engineering, Design Methodology, UX Design, Signals and Systems
+  
 * City College Of San Francisco (May 2020)  •  Associate Degree in Computer Science (with Highest Honors)  •  GPA: 3.96 
 
 ## Certificates
