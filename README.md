@@ -20,9 +20,9 @@ My core competencies lie in agile methodologies and machine learning, proven by 
 
 Software Engineering Fellow (July 2024 – Sept 2024)
 Headstarter
-• Built and deployed 4+ AI applications in 5 weeks using React JS, Next.js, Firebase, Clerk, and Vercel, following agile methodologies with weekly sprints and incorporated CI/CD practices for iterative deployment
-• Worked in a team of 3 to develop an interactive customer support agent and team mate finder using Next.js, extracts data from a knowledge base and upsert to a Pinecone index and integrated a custom RAG pipeline using LangChain and OpenAi LLM to answer user queries with updated information
-• Collaborated with 3 Fellows to build and deploy a SaaS product that generates dynamic flashcards based on any topic using the OpenAi LLM, integrated a paywall and custom pricing plans using the Stripe API
+* Built and deployed 4+ AI applications in 5 weeks using React JS, Next.js, Firebase, Clerk, and Vercel, following agile methodologies with weekly sprints and incorporated CI/CD practices for iterative deployment
+* Worked in a team of 3 to develop an interactive customer support agent and team mate finder using Next.js, extracts data from a knowledge base and upsert to a Pinecone index and integrated a custom RAG pipeline using LangChain and OpenAi LLM to answer user queries with updated information
+* Collaborated with 3 Fellows to build and deploy a SaaS product that generates dynamic flashcards based on any topic using the OpenAi LLM, integrated a paywall and custom pricing plans using the Stripe API
 
 Web Developer (Aug 2021 - Dec 2022)
 Freelance
